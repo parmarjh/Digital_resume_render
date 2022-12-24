@@ -9,6 +9,7 @@ current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir / "main.css"
 resume_file = current_dir / "Jatin_Resume.pdf"
 profile_pic = current_dir / "jhp.jpg"
+cover_later = current_dir /"Jatin_Cover_later.pdf"
 
 
 # --- GENERAL SETTINGS ---
